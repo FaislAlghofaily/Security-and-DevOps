@@ -1,0 +1,170 @@
+2022-03-20 06:10:15 INFO  c.e.d.c.CartControllerTest - Starting CartControllerTest on MSI with PID 11832 (started by mrfe9 in C:\Users\mrfe9\Pictures\New folder\nd035-c4-Security-and-DevOps-master\starter_code)
+2022-03-20 06:10:15 INFO  c.e.d.c.CartControllerTest - No active profile set, falling back to default profiles: default
+2022-03-20 06:10:17 INFO  c.e.d.c.CartControllerTest - Started CartControllerTest in 1.217 seconds (JVM running for 7.209)
+2022-03-20 06:10:17 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:17 INFO  c.e.demo.controllers.UserController - Created user removeItemBadRequest successfully
+2022-03-20 06:10:17 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:17 INFO  c.e.demo.controllers.UserController - Created user addItem successfully
+2022-03-20 06:10:17 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:17 INFO  c.e.demo.controllers.UserController - Created user addItemBadRequest successfully
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user removeItem successfully
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user getItemById successfully
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user getItemByName successfully
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user getItems successfully
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user submitOrder successfully
+2022-03-20 06:10:18 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 06:10:18 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user orderHistory successfully
+2022-03-20 06:10:18 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 06:10:18 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 06:10:18 INFO  c.e.d.controllers.OrderController - fetching order history for user 
+2022-03-20 06:10:18 INFO  c.e.d.controllers.OrderController - fetch order successfully for 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - Created user notAllowed successfully
+2022-03-20 06:10:18 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:19 INFO  c.e.demo.controllers.UserController - Created user getByid successfully
+2022-03-20 06:10:19 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:19 ERROR c.e.demo.controllers.UserController - Error - Either length is less than 7 or pass and conf pass do not match. Unable to create 
+2022-03-20 06:10:19 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:19 INFO  c.e.demo.controllers.UserController - Created user Test successfully
+2022-03-20 06:10:19 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:19 INFO  c.e.demo.controllers.UserController - Created user getByUsername successfully
+2022-03-20 06:10:47 INFO  c.e.demo.SareetaApplicationTests - Starting SareetaApplicationTests on MSI with PID 20456 (started by mrfe9 in C:\Users\mrfe9\Pictures\New folder\nd035-c4-Security-and-DevOps-master\starter_code)
+2022-03-20 06:10:47 INFO  c.e.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+2022-03-20 06:10:52 INFO  c.e.demo.SareetaApplicationTests - Started SareetaApplicationTests in 4.822 seconds (JVM running for 5.896)
+2022-03-20 06:10:52 INFO  c.e.d.c.CartControllerTest - Starting CartControllerTest on MSI with PID 20456 (started by mrfe9 in C:\Users\mrfe9\Pictures\New folder\nd035-c4-Security-and-DevOps-master\starter_code)
+2022-03-20 06:10:52 INFO  c.e.d.c.CartControllerTest - No active profile set, falling back to default profiles: default
+2022-03-20 06:10:53 INFO  c.e.d.c.CartControllerTest - Started CartControllerTest in 1.305 seconds (JVM running for 7.332)
+2022-03-20 06:10:53 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:53 INFO  c.e.demo.controllers.UserController - Created user removeItemBadRequest successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user addItem successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user addItemBadRequest successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user removeItem successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user getItemById successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user getItemByName successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user getItems successfully
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:54 INFO  c.e.demo.controllers.UserController - Created user submitOrder successfully
+2022-03-20 06:10:55 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 06:10:55 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - Created user orderHistory successfully
+2022-03-20 06:10:55 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 06:10:55 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 06:10:55 INFO  c.e.d.controllers.OrderController - fetching order history for user 
+2022-03-20 06:10:55 INFO  c.e.d.controllers.OrderController - fetch order successfully for 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - Created user notAllowed successfully
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - Created user getByid successfully
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:55 ERROR c.e.demo.controllers.UserController - Error - Either length is less than 7 or pass and conf pass do not match. Unable to create 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - Created user Test successfully
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:10:55 INFO  c.e.demo.controllers.UserController - Created user getByUsername successfully
+2022-03-20 06:18:17 INFO  c.e.d.c.CartControllerTest - Starting CartControllerTest on MSI with PID 16560 (started by mrfe9 in C:\Users\mrfe9\Pictures\New folder\nd035-c4-Security-and-DevOps-master\starter_code)
+2022-03-20 06:18:17 INFO  c.e.d.c.CartControllerTest - No active profile set, falling back to default profiles: default
+2022-03-20 06:18:19 INFO  c.e.d.c.CartControllerTest - Started CartControllerTest in 1.439 seconds (JVM running for 8.718)
+2022-03-20 06:18:19 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:19 INFO  c.e.demo.controllers.UserController - Created user removeItemBadRequest successfully
+2022-03-20 06:18:19 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:19 INFO  c.e.demo.controllers.UserController - Created user addItem successfully
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - Created user addItemBadRequest successfully
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - Created user removeItem successfully
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - Created user getItemById successfully
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - Created user getItemByName successfully
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - Created user getItems successfully
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 06:18:20 INFO  c.e.demo.controllers.UserController - Created user submitOrder successfully
+2022-03-20 09:08:58 INFO  c.e.d.c.CartControllerTest - Starting CartControllerTest on MSI with PID 5984 (started by mrfe9 in C:\Users\mrfe9\Pictures\New folder\nd035-c4-Security-and-DevOps-master\starter_code)
+2022-03-20 09:08:58 INFO  c.e.d.c.CartControllerTest - No active profile set, falling back to default profiles: default
+2022-03-20 09:09:00 INFO  c.e.d.c.CartControllerTest - Started CartControllerTest in 1.273 seconds (JVM running for 10.177)
+2022-03-20 09:09:00 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:00 INFO  c.e.demo.controllers.UserController - Created user removeItemBadRequest successfully
+2022-03-20 09:09:00 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:00 INFO  c.e.demo.controllers.UserController - Created user addItem successfully
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - Created user addItemBadRequest successfully
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - Created user removeItem successfully
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - Created user getItemById successfully
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - Created user getItemByName successfully
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - Created user getItems successfully
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - Created user submitOrder successfully
+2022-03-20 09:09:01 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 09:09:01 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 09:09:01 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - Created user orderHistory successfully
+2022-03-20 09:09:02 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 09:09:02 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 09:09:02 INFO  c.e.d.controllers.OrderController - fetching order history for user 
+2022-03-20 09:09:02 INFO  c.e.d.controllers.OrderController - fetch order successfully for 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - Created user notAllowed successfully
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - Created user getByid successfully
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:02 ERROR c.e.demo.controllers.UserController - Error - Either length is less than 7 or pass and conf pass do not match. Unable to create 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - Created user Test successfully
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:09:02 INFO  c.e.demo.controllers.UserController - Created user getByUsername successfully
+2022-03-20 09:10:27 INFO  c.e.d.c.CartControllerTest - Starting CartControllerTest on MSI with PID 15700 (started by mrfe9 in C:\Users\mrfe9\Pictures\New folder\nd035-c4-Security-and-DevOps-master\starter_code)
+2022-03-20 09:10:27 INFO  c.e.d.c.CartControllerTest - No active profile set, falling back to default profiles: default
+2022-03-20 09:10:28 INFO  c.e.d.c.CartControllerTest - Started CartControllerTest in 1.423 seconds (JVM running for 9.576)
+2022-03-20 09:10:29 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:29 INFO  c.e.demo.controllers.UserController - Created user removeItemBadRequest successfully
+2022-03-20 09:10:29 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:29 INFO  c.e.demo.controllers.UserController - Created user addItem successfully
+2022-03-20 09:10:29 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:29 INFO  c.e.demo.controllers.UserController - Created user addItemBadRequest successfully
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user removeItem successfully
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user getItemById successfully
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user getItemByName successfully
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user getItems successfully
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user submitOrder successfully
+2022-03-20 09:10:30 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 09:10:30 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user orderHistory successfully
+2022-03-20 09:10:30 INFO  c.e.d.controllers.OrderController - Submiting order for user 
+2022-03-20 09:10:30 INFO  c.e.d.controllers.OrderController - Submit order successfully for 
+2022-03-20 09:10:30 INFO  c.e.d.controllers.OrderController - fetching order history for user 
+2022-03-20 09:10:30 INFO  c.e.d.controllers.OrderController - fetch order successfully for 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - Created user notAllowed successfully
+2022-03-20 09:10:30 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:31 INFO  c.e.demo.controllers.UserController - Created user getByid successfully
+2022-03-20 09:10:31 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:31 ERROR c.e.demo.controllers.UserController - Error - Either length is less than 7 or pass and conf pass do not match. Unable to create 
+2022-03-20 09:10:31 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:31 INFO  c.e.demo.controllers.UserController - Created user Test successfully
+2022-03-20 09:10:31 INFO  c.e.demo.controllers.UserController - User name set with 
+2022-03-20 09:10:31 INFO  c.e.demo.controllers.UserController - Created user getByUsername successfully
